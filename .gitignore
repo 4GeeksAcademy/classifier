@@ -3,4 +3,4 @@ __pycache__
 .learn
 dogs-vs-cats/
 env/
-*.dylib
+lib/
