@@ -4,3 +4,5 @@ __pycache__
 dogs-vs-cats/
 env/
 lib/
+env/
+*.dylib
